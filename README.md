@@ -1,2 +1,2 @@
-LamboCoin is a PoS X17 cryptocurrency.
+LamboCoin is a PoS X17 cryptocurrency
 
